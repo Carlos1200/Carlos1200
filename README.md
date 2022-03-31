@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Herrera</h1>
 <h3 align="center">A passionate frontend developer from El Salvador</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos1200&label=Profile%20views&color=50b40e&style=flat" alt="carlos1200" /> </p>
 
 - 🔭 I’m currently working on [Spotify-Clon](https://github.com/Carlos1200/Spotify-Clon)
 
